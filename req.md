@@ -39,25 +39,14 @@ kako bih lakše upravljao i pratio različite vrste navika.
 ## Funkcijski zahtjevi
 
 **FZ-01** Sustav mora omogućiti korisniku dodavanje nove navike s nazivom i opisom.
-- Prioritet: Must
-- Kriterij prihvaćanja: korisnik ispuni naziv i opis te potvrdi — navika se pojavljuje na popisu.
 
 **FZ-02** Sustav mora prikazati popis svih korisnikovih navika na početnom ekranu.
-- Prioritet: Must
-- Kriterij prihvaćanja: sve dodane navike vidljive su odmah po otvaranju aplikacije.
 
 **FZ-03** Sustav mora omogućiti korisniku označavanje navike kao izvršene za tekući dan.
-- Prioritet: Must
-- Kriterij prihvaćanja: korisnik klikne oznaku — navika se bilježi kao izvršena za taj dan.
 
 **FZ-04** Sustav mora spriječiti dvostruko označavanje iste navike u istom danu.
-- Prioritet: Must
-- Kriterij prihvaćanja: jednom označena navika ne može se ponovo označiti isti dan.
 
 **FZ-05** Sustav mora prikazati streak (broj uzastopnih dana) za svaku naviku.
-- Prioritet: Should
-- Kriterij prihvaćanja: streak se povećava za 1 svaki dan kad je navika izvršena, resetira se ako dan bude preskočen.
-  
+
 **FZ-06** Sustav mora omogućiti korisniku brisanje navike.
-  - Prioritet: Should
-  - Kriterij prihvaćanja: obrisana navika više se ne prikazuje na popisu, svi njezini zapisi se brišu.
+
