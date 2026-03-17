@@ -27,12 +27,10 @@ Kao korisnik, želim vidjeti sve svoje dnevne unose na jednom mjestu,
 kako bih imao jasan pregled aktivnosti kroz dane i lakše uočio obrasce.
 
 **US-05**
-
 Kao korisnik, želim postaviti podsjetnik za određenu naviku,
 kako bih bio obaviješten kada je vrijeme da izvršim tu naviku.
 
 **US-06**
-
 Kao korisnik, želim organizirati navike po kategorijama (npr. zdravlje, učenje, sport),
 kako bih lakše upravljao i pratio različite vrste navika.
 
@@ -55,3 +53,11 @@ kako bih lakše upravljao i pratio različite vrste navika.
 **FZ-04** Sustav mora spriječiti dvostruko označavanje iste navike u istom danu.
 - Prioritet: Must
 - Kriterij prihvaćanja: jednom označena navika ne može se ponovo označiti isti dan.
+
+**FZ-05** Sustav mora prikazati streak (broj uzastopnih dana) za svaku naviku.
+- Prioritet: Should
+- Kriterij prihvaćanja: streak se povećava za 1 svaki dan kad je navika izvršena, resetira se ako dan bude preskočen.
+  
+**FZ-06** Sustav mora omogućiti korisniku brisanje navike.
+  - Prioritet: Should
+  - Kriterij prihvaćanja: obrisana navika više se ne prikazuje na popisu, svi njezini zapisi se brišu.
