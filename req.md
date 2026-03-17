@@ -4,5 +4,5 @@
 - Marija Ferinović
 - Ivan Bakša
 ## GitHub repozitorij
-- Link: https://github.com/miamacan/grupa-8.-habittracke
+- Link: https://github.com/miamacan/grupa-8.-habittracker
 - Svi članovi dodani: DA
