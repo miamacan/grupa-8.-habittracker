@@ -68,4 +68,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 - Prioritet: Should
 - Kriterij prihvaćanja: mjerenjem vrijeme učitavanja ne prelazi 1 sekundu.
 
+**NZ-02** Aplikacija mora biti prilagođena mobilnim uređajima s ekranom od najmanje 360px širine.
+- Prioritet: Must
+- Kriterij prihvaćanja: svi elementi su čitljivi i klikabilni na ekranu širine 360px.
 
