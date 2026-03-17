@@ -26,6 +26,16 @@ kako bih mogao prilagoditi svoje ciljeve ili ukloniti navike koje više ne prati
 Kao korisnik, želim vidjeti sve svoje dnevne unose na jednom mjestu,
 kako bih imao jasan pregled aktivnosti kroz dane i lakše uočio obrasce.
 
+**US-05**
+
+Kao korisnik, želim postaviti podsjetnik za određenu naviku,
+kako bih bio obaviješten kada je vrijeme da izvršim tu naviku.
+
+**US-06**
+
+Kao korisnik, želim organizirati navike po kategorijama (npr. zdravlje, učenje, sport),
+kako bih lakše upravljao i pratio različite vrste navika.
+
 ---
 
 ## Funkcijski zahtjevi
