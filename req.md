@@ -62,7 +62,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 - Prioritet: Should
 - Kriterij prihvaćanja: obrisana navika više se ne prikazuje na popisu, svi njezini zapisi se brišu.
 
-- ## Nefunkcijski zahtjevi
+## Nefunkcijski zahtjevi
  
 **NZ-01** Aplikacija mora prikazati popis navika u roku od 1 sekunde za 95% slučajeva.
 - Prioritet: Should
