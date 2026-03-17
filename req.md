@@ -81,3 +81,4 @@ kako bih lakše upravljao i pratio različite vrste navika.
 ## Taskovi
  
 **TASK-01** Dizajnirati model podataka za naviku (naziv, opis, datum kreiranja)
+**TASK-02** Dizajnirati model podataka za dnevno izvršavanje navike
