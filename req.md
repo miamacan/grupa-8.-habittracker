@@ -16,7 +16,7 @@ kako bih pratio jesu li moje navike redovite i vidio napredak kroz vrijeme.
 
 **US-02**
 Kao korisnik, želim pregledati statistiku i streak za svaku naviku,
-kako bih se motivirao za dosljednost i uočio koje navike zanemarujem.
+kako bih se motivirao i uočio koje navike zanemarujem.
 
 **US-03**
 Kao korisnik, želim urediti ili obrisati postojeću naviku,
