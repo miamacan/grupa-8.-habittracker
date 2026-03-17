@@ -70,6 +70,24 @@ kako bih se motivirao i uočio koje navike zanemarujem.
 
 **TASK-03** Implementirati ekran za prikaz popisa navika
 
+**TASK-04** Implementirati formu za dodavanje nove navike
+
+**TASK-05** Implementirati logiku označavanja navike kao izvršene
+
+**TASK-06** Implementirati validaciju dvostrukog označavanja
+
+**TASK-07** Implementirati izračun i prikaz streaka
+
+**TASK-08** Implementirati brisanje navike
+
+**TASK-09** Implementirati lokalno spremanje podataka 
+
+**TASK-10** Prilagoditi sučelje za mobilne uređaje
+
+**TASK-11** Napisati unit testove za izračun streaka
+
+**TASK-12** Napisati integracijski test za označavanje navike
+ 
 ---
 
 ## Raspodjela zadataka
