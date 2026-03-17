@@ -40,7 +40,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 
 **FZ-01** Sustav mora omogućiti korisniku dodavanje nove navike s nazivom i opisom.
 - Prioritet: Must
-- Kriterij prihvaćanja: korisnik ispuni naziv i opis te potvrdi — navika se pojavljuje na popisu.
+- Kriterij prihvaćanja: korisnik ispuni naziv i opis te potvrdi, navika se pojavljuje na popisu.
 
 **FZ-02** Sustav mora prikazati popis svih korisnikovih navika na početnom ekranu.
 - Prioritet: Must
@@ -48,7 +48,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 
 **FZ-03** Sustav mora omogućiti korisniku označavanje navike kao izvršene za tekući dan.
 - Prioritet: Must
-- Kriterij prihvaćanja: korisnik klikne oznaku — navika se bilježi kao izvršena za taj dan.
+- Kriterij prihvaćanja: korisnik klikne oznaku, navika se bilježi kao izvršena za taj dan.
 
 **FZ-04** Sustav mora spriječiti dvostruko označavanje iste navike u istom danu.
 - Prioritet: Must
