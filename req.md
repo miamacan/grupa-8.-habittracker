@@ -71,4 +71,9 @@ kako bih lakše upravljao i pratio različite vrste navika.
 **NZ-02** Aplikacija mora biti prilagođena mobilnim uređajima s ekranom od najmanje 360px širine.
 - Prioritet: Must
 - Kriterij prihvaćanja: svi elementi su čitljivi i klikabilni na ekranu širine 360px.
-
+  
+**NZ-03** Podaci o navikama moraju ostati sačuvani nakon zatvaranja i ponovnog otvaranja aplikacije.
+- Prioritet: Must
+- Kriterij prihvaćanja: navike i oznake vidljive su i nakon ponovnog pokretanja aplikacije.
+ 
+---
