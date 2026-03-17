@@ -18,6 +18,16 @@ kako bih pratio jesu li moje navike redovite i vidio napredak kroz vrijeme.
 Kao korisnik, želim pregledati statistiku i streak za svaku naviku,
 kako bih se motivirao za dosljednost i uočio koje navike zanemarujem.
 
+US-03
+
+Kao korisnik, želim urediti ili obrisati postojeću naviku,
+kako bih mogao prilagoditi svoje ciljeve ili ukloniti navike koje više ne pratim.
+
+US-04
+
+Kao korisnik, želim vidjeti sve svoje dnevne unose na jednom mjestu,
+kako bih imao jasan pregled aktivnosti kroz dane i lakše uočio obrasce.
+
 ---
 
 ## Funkcijski zahtjevi
