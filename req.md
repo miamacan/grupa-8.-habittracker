@@ -91,5 +91,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 ## Raspodjela zadataka
 
 **Mia Macan** FZ-01, FZ-02, NZ-01, TASK-01
+
 **Ivan Bakša** FZ-03, FZ-04, NZ-02, TASK-02
+
 **Marija Ferinović** FZ-05, FZ-06, NZ-03, TASK-03
