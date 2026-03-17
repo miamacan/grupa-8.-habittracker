@@ -77,3 +77,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 - Kriterij prihvaćanja: navike i oznake vidljive su i nakon ponovnog pokretanja aplikacije.
  
 ---
+
+## Taskovi
+ 
+**TASK-01** Dizajnirati model podataka za naviku (naziv, opis, datum kreiranja)
