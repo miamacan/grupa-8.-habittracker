@@ -53,7 +53,7 @@ kako bih lakše upravljao i pratio različite vrste navika.
 **FZ-04** Sustav mora spriječiti dvostruko označavanje iste navike u istom danu.
 - Prioritet: Must
 - Kriterij prihvaćanja: jednom označena navika ne može se ponovo označiti isti dan.
-
+  
 **FZ-05** Sustav mora prikazati streak (broj uzastopnih dana) za svaku naviku.
 - Prioritet: Should
 - Kriterij prihvaćanja: streak se povećava za 1 svaki dan kad je navika izvršena, resetira se ako dan bude preskočen.
