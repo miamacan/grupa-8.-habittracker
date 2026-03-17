@@ -1,4 +1,4 @@
-# Projekt: Rezervacija termina
+# Projekt: Habit tracker
 ## Članovi tima
 - Mia Macan
 - Marija Ferinović
