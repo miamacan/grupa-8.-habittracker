@@ -92,8 +92,8 @@ kako bih se motivirao i uočio koje navike zanemarujem.
 
 ## Raspodjela zadataka
 
-**Mia Macan** FZ-01, FZ-02, NZ-01, TASK-01
+**Mia Macan** FZ-01, FZ-02, NZ-01, TASK-01, TASK-04, TASK-05, TASK-10
 
-**Ivan Bakša** FZ-03, FZ-04, NZ-02, TASK-02
+**Ivan Bakša** FZ-03, FZ-04, NZ-02, TASK-02, TASK-06, TASK-07, TASK-11
 
-**Marija Ferinović** FZ-05, FZ-06, NZ-03, TASK-03
+**Marija Ferinović** FZ-05, FZ-06, NZ-03, TASK-03, TASK-08, TASK-09, TASK-12
