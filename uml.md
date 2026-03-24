@@ -32,3 +32,34 @@ UC3 ..> UC1 : <<include>>
 UC4 ..> UC1 : <<include>>
 UC6 ..> UC2 : <<extend>>
 @enduml
+
+
+
+## 2. Sequence dijagram
+
+Ovaj dijagram prikazuje scenarij u kojem korisnik označava naviku kao izvršenu za određeni dan.
+
+Proces započinje akcijom korisnika u korisničkom sučelju (UI), nakon čega se zahtjev šalje API-ju. API provjerava u bazi podataka postoji li već unos za tu naviku i taj datum. Ako unos već postoji, korisniku se vraća greška. U suprotnom, novi unos se sprema u bazu i korisnik dobiva potvrdu o uspjehu.
+
+```plantuml
+@startuml
+actor User
+participant UI
+participant API
+participant Database
+
+User -> UI : klikne "mark as done"
+UI -> API : POST /entries (habit_id, date)
+
+API -> Database : provjeri postoji li entry
+
+alt entry već postoji
+    Database --> API : postoji
+    API --> UI : error (duplicate entry)
+else novi entry
+    Database --> API : ne postoji
+    API -> Database : spremi entry
+    API --> UI : success
+end
+
+@enduml
