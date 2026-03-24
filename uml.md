@@ -32,7 +32,9 @@ UC3 ..> UC1 : <<include>>
 UC4 ..> UC1 : <<include>>
 UC6 ..> UC2 : <<extend>>
 @enduml
+` ``
 
+---
 
 
 ## 2. Sequence dijagram
